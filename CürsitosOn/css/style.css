@@ -1,0 +1,33 @@
+body{
+	background-color: #FFFFFF; 
+}
+img{
+	width: 450px;
+}
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+	margin-top:50px;
+}
+.Slabo{
+	font-family: 'Slabo 27px', serif;
+font-size: 4em;
+}
+.Ubuntu{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 2em;
+}
+.espacio{
+	margin-right: 2em;
+}
+.menu-vertical{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 2em;
+	}
+.se-gris{
+	background-color:#000; 
+}
+.padding-largo{
+	padding: 5px 10px;
+}
